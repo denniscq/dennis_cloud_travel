@@ -62,5 +62,5 @@ AppDataSource.initialize().then(async () => {
 
     // !!! if you're first time to run that plese uncomment, otherwise please comment this line.
     // init data for local runing
-    // await init(AppDataSource)
+    await init(AppDataSource)
 }).catch(error => console.log(error))
