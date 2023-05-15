@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "previewMode": false,
+        "brandName": "Rakuten Travel",
+        "appCode": "RTRVO",
+        "sourceMarket": "JP",
+        "currency": "JPY",
+        "locale": "en-US",
+        "reqId": "f78c1cbd80a344d79b7345b3d11df3f2",
+        "nights": 1,
+        "roomCount": 1,
+        "targetCcy": "JPY"
+    },
+    "outlets": {
+        "priceRange": null,
+        "tyRange": null,
+        "starRange": null,
+        "categoryRange": null,
+        "facilities": null,
+        "meals": null,
+        "rateType": "",
+        "nights": 1,
+        "roomCount": 1,
+        "targetCcy": "JPY",
+        "availability": {
+            "status": "complete",
+            "sessionId": "f78c1cbd80a344d79b7345b3d11df3f2",
+            "eventId": "f78c1cbd80a344d79b7345b3d11df3f2",
+            "search": {
+                "check_in_date": "2021-12-21",
+                "check_out_date": "2021-12-22",
+                "room_count": 1,
+                "adult_count": 2,
+                "currency": "JPY",
+                "locale": "en-US",
+                "source_market": "JP",
+                "children": null
+            },
+            "results": []
+        }
+    }
+}

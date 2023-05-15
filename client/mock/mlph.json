@@ -1,0 +1,7 @@
+{
+    "status": 400,
+    "type": "invalid_request_error",
+    "message": "Check-out date must be after Check-in date",
+    "code": "invalid_params",
+    "resolveActions": {}
+}
