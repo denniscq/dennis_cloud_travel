@@ -29,6 +29,11 @@
       "start": "ts-node src/index.ts",
       "serve": "nodemon -w **/*.ts src/index.ts",
       "build": "tsc -p tsconfig.build.json",
+      "jest": {
+         "transform": {
+            "^.+\\.(ts|tsx)$": "ts-jest"
+         }
+      },
       "test": "jest",
       "typeorm": "typeorm-ts-node-commonjs"
    }
